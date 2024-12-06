@@ -18,12 +18,6 @@ If you like my work and want to support me, consider donating:
 - **USDT (ERC-20)**: `0x26ef78b75c0251c8ee7c064ba87b3ad5fd1d0ca3`
 
 
-### Usage Instructions:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-
 ## Installation
 1. Clone this repository:
    ```bash
