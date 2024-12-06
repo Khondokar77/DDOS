@@ -8,6 +8,21 @@ This Tool is made for educational purposes only. Do not attempt to violate the l
 
 It only demonstrates "how DDos attack work". You shall not to harm any web server. However you may try out this at your own risk.
 
+## Support Me 💖
+
+If you like my work and want to support me, consider donating:
+
+### Cryptocurrency Donations:
+- **Bitcoin (BTC)**: `1KCkKBbTCeshDt4KZjsmArQF3NPoizBe1B`
+- **Ethereum (ERC20)**: `0x26ef78b75c0251c8ee7c064ba87b3ad5fd1d0ca3`
+- **USDT (ERC-20)**: `0x26ef78b75c0251c8ee7c064ba87b3ad5fd1d0ca3`
+
+
+### Usage Instructions:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
 
 ## Installation
 1. Clone this repository:
