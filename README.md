@@ -12,4 +12,9 @@ It only demonstrates "how DDos attack work". You shall not to harm any web serve
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone --depth=1 https://github.com/your-username/repository-name.git
+   git clone https://github.com/Khondokar77/DDOS.git
+
+2. Navigate the derictory:
+```bash
+cd DDOS
+python DDOS.py
