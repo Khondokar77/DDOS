@@ -7,3 +7,9 @@ This toolkit contains materials that can be potentially damaging or dangerous fo
 This Tool is made for educational purposes only. Do not attempt to violate the law with anything contained here. If this is your intention, then Get the hell out of here!
 
 It only demonstrates "how DDos attack work". You shall not to harm any web server. However you may try out this at your own risk.
+
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone --depth=1 https://github.com/your-username/repository-name.git
